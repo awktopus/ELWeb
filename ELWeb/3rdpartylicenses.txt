@@ -328,6 +328,8 @@ THE SOFTWARE.
 @angular/animations
 MIT
 
+@angular/material/button
+
 @angular/forms
 MIT
 
